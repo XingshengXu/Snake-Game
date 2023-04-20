@@ -10,7 +10,7 @@ Snake is a classic arcade game that has been around for decades. In the game, th
 4. Classic background music: The BGM is the classic Snake Game theme music, enjoy!
 
 ## Game Installation Guide
-Before installing "Snake Game" ensure that you have Python 3.7 or higher installed on your system. You can download the latest version of Python from the official website: [link text](https://www.python.org/downloads)
+Before installing "Snake Game" ensure that you have Python 3.7 or higher installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads
 
 Step 1: Install required libraries
 To run the game, you need to install the pygame library. Open a terminal or command prompt and enter the following command:
