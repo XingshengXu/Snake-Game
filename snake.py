@@ -13,7 +13,7 @@ REACTION_TIME = 100
 DELAY_TIME = 4000
 
 # FPS, Directions, and Moving Speed
-FPS = 5
+FPS = 30
 MOVING_SPEED = GRID_WIDTH
 UP, DOWN, LEFT, RIGHT = range(4)
 DIRECTIONS = {
